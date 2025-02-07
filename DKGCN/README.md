@@ -11,7 +11,7 @@ We develope our codes in the following environment:
 
   Python version 3.7
  
-  torch==1.12.0+cu113
+  torch==1.12.0
   
   numpy==1.21.5
   
