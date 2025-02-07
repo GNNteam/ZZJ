@@ -9,7 +9,7 @@ Before executing the codes, make sure that the data set and all.py files are pro
 ### 2. Running environment
 We develope our codes in the following environment:
 
-  Python version 3.9.12
+  Python version 3.7
  
   torch==1.12.0+cu113
   
