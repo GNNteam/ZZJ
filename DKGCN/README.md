@@ -32,7 +32,9 @@ For each specified data set path:
 ```
 ### 4. About configurable arguments
 
+
 The model parameters are configured in KGCN using the parse.py script.
+
 
 ### 5. Citing our paper
 
