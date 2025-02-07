@@ -12,16 +12,19 @@ Before executing the codes, make sure that the data set and all.py files are pro
 We develope our codes in the following environment:
 
   Python version 3.9.12
+ 
   torch==1.12.0+cu113
+  
   numpy==1.21.5
+  
   tqdm==4.64.0
 
 ### 3. How to run the codes
 For each specified data set path:
 
-' ''
+``` Python
   python main.py 
-' ''
+```
 
 
 
