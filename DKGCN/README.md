@@ -1,5 +1,5 @@
 ## DKGCN/MKGCN
-This is the PyTorch implementation for MKGCN proposed in the paper [Multi-view knowledge graph convolutional networks for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1568494624014078), Applied Soft Computing, 2024.
+This is the PyTorch implementation for MKGCN proposed in the paper [Multi-view knowledge graph convolutional networks for recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1568494624014078), Applied Soft Computing, 2025.
 
 ![Uploading 1.png…]()
 
@@ -26,5 +26,17 @@ For each specified data set path:
   python main.py 
 ```
 
+56. Citing our paper
+
+@article{WANG2025112633,
+title = {Multi-view knowledge graph convolutional networks for recommendation},
+journal = {Applied Soft Computing},
+volume = {169},
+pages = {112633},
+year = {2025},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2024.112633},
+url = {https://www.sciencedirect.com/science/article/pii/S1568494624014078}
+}
 
 
