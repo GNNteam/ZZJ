@@ -26,8 +26,9 @@ For each specified data set path:
   python main.py 
 ```
 
-56. Citing our paper
+5. Citing our paper
 
+```
 @article{WANG2025112633,
 title = {Multi-view knowledge graph convolutional networks for recommendation},
 journal = {Applied Soft Computing},
@@ -38,5 +39,5 @@ issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2024.112633},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494624014078}
 }
-
+```
 
