@@ -17,7 +17,11 @@ numpy==1.21.5
 tqdm==4.64.0
 
 ### 3. How to run the codes
-For each dataset with specific path:
-python main.py --data yelp
+For each specified data set path:
+
+' ''
+  python main.py 
+' ''
+
 
 
