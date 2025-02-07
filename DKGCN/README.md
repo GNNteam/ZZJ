@@ -23,18 +23,16 @@ For each specified data set path:
 -Training:
 
 ``` Python
-  python main.py 
+  python train.py 
 ```
 -Testing:
 
 ``` Python
-  python main.py 
+  python KGCN.py 
 ```
 ### 4. About configurable arguments
 
-
-
-
+The model parameters are configured in KGCN using the parse.py script.
 
 ### 5. Citing our paper
 
