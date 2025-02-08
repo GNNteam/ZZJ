@@ -9,13 +9,17 @@ Before executing the codes, make sure that the data set and all.py files are pro
 ### 2. Running environment
 We develope our codes in the following environment:
 
-  Python version 3.7
+  Python version 3.8.19
  
-  torch==1.12.0
+  torch==2.0.1+cu118
   
-  numpy==1.21.5
+  numpy==1.24.3
   
-  tqdm==4.64.0
+  psutil==6.0.0
+
+  tensorboardX==2.6.2.2
+
+  scikit-learn==1.3.2
 
 ### 3. How to run the codes
 For each specified data set path:
