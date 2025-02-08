@@ -45,9 +45,7 @@ journal = {Applied Soft Computing},
 volume = {169},
 pages = {112633},
 year = {2025},
-issn = {1568-4946},
-doi = {https://doi.org/10.1016/j.asoc.2024.112633},
-url = {https://www.sciencedirect.com/science/article/pii/S1568494624014078}
+doi = {https://doi.org/10.1016/j.asoc.2024.112633}
 }
 ```
 
